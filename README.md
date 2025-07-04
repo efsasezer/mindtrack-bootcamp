@@ -4,7 +4,7 @@
 
 **Takım 86**
 
-## 👥 Takım Elemanları
+## Takım Elemanları
 
 **Takım Adı:** Takım 86
 
@@ -16,25 +16,25 @@
 | Sude Naz Öztürk | Developer |
 | Galip Talha Erbaş | Developer |
 
-##  🧠  Ürünün İsmi
+##   Ürünün İsmi
 **MindTrack - Öğrenci Ruh Sağlığı Tahmin ve Takip Sistemi**
 
-## 🖼️ Ürünün Logosu
+## Ürünün Logosu
 
 ![Mindtrack Logo](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/main/mindtrack_logo.png)
 
-## 📝 Ürünün Açıklaması
+## Ürünün Açıklaması
 
 Üniversite öğrencilerini yaşam tarzı alışkanlıklarına (uyku, sosyal medya, sigara vs.) ve psikolojik semptomlarına göre *depresyon seviyesini tahmin eden* ve kullanıcıya özel öneriler sunan bir yapay zeka destekli sistem geliştirmek.
 
-## 🎯 Hedef Kitle
+## Hedef Kitle
 
 - Üniversite öğrencileri (18–26 yaş aralığı)
 - Psikolojik danışmanlık merkezleri (PDR)
 - Üniversiteler (kurumsal lisanslama ile)
 - Mental sağlık uygulamaları ve startup'lar
 
-## 📣 Pazarlama Stratejisi
+## Pazarlama Stratejisi
 
 ### 1. **B2C Pazarlama:**
 - Sosyal medya kampanyaları (Instagram, TikTok üzerinden “kendini test et” tanıtımı)
@@ -47,15 +47,15 @@
 - Google Play Store veya App Store lansmanı sonrası reklam kampanyaları
 
 
-## 🧩 Ürünün Bileşenleri
+## Ürünün Bileşenleri
 
-- 📊 **Veri Analizi ve Temizlik**
+- **Veri Analizi ve Temizlik**
   - Eksik değer doldurma, encoding, normalizasyon
-- 🤖 **Makine Öğrenmesi ile Tahmin**
+- **Makine Öğrenmesi ile Tahmin**
   - Random Forest, XGBoost ile sınıflandırma
-- 💡 **Öneri Motoru**
+- **Öneri Motoru**
   - Kullanıcının depresyon seviyesi ve risk faktörlerine göre öneri
-- 💻 **Arayüz (opsiyonel)**
+- **Arayüz (opsiyonel)**
   - Streamlit tabanlı arayüz
   - Kullanıcı veri girişi + tahmin + öneri
 
@@ -63,7 +63,7 @@
 
 Trello üzerinden sprint planlaması ve görev takibi yapılmıştır.
 
-## ⚙️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 | Alan              | Teknoloji               |
 |-------------------|--------------------------|
