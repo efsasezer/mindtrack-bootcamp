@@ -103,6 +103,7 @@ Gerçekleşen Puan: 80 puan
 - İş bölümü high-level (genel düzeyde) yapılmıştır.
 
 **Sprint Review**
+
 Bu sprintte yapılanlar:
 - Proje fikrine karar verildi: MindTrack – Öğrenci Ruh Sağlığı Takip Sistemi
 - Veri seti bulundu ve projeye eklendi.
