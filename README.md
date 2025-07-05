@@ -6,8 +6,6 @@
 
 ## Takım Elemanları
 
-**Takım Adı:** Takım 86
-
 | <div align="center">Name</div>   | <div align="center">Title</div>  |  
 | :---------- | :---------- | 
 | Efsa Sezer | Product Owner |
