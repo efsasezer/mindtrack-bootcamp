@@ -86,6 +86,7 @@ Gerçekleşen Puan: 80 puan
 - Sonuç olarak kalan 220 puan, Sprint 2 ve Sprint 3’e 110’ar puan olarak dağıtılacaktır.
 
 **Daily Scrum**
+
 - Takım üyeleri olarka WhatsApp üzerinden iletişim sağladık, iki-üç günde bir durumumuzu konuşmak için meets üzerinden toplantı gerçekleştirdik.
 - İlk hafta tanışma, roller ve proje fikri üzerine konuşmalar yapılmıştır.
 - İkinci hafta proje fikri kararlaştırılmış, görevler high level olarak atanmıştır.
@@ -112,6 +113,7 @@ Bu sprintte yapılanlar:
 - Trello kurulumu yapıldı.
 
 **Sprint Katılımcıları**
+
 - Efsa Sezer (Product Owner) - Aktif
 - Sultan Kırkan (Scrum Master) - Aktif
 - Fatih Mehmet Dikici (Developer) - Aktif
@@ -119,6 +121,7 @@ Bu sprintte yapılanlar:
 - Galip Talha Erbaş (Developer) - Aktif
 
 **Sprint Retrospective**
+
 İyi Gidenler:
 - Fikir birliği hızlı sağlandı.
 - Veri seti süreci başarıyla tamamlandı.
