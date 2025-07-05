@@ -44,7 +44,6 @@
 ### 2. **B2B Pazarlama:**
 - Üniversitelerle iş ortaklıkları (danışmanlık merkezleri için dashboard versiyonu)
 - Startup yarışmalarına katılım
-- Google Play Store veya App Store lansmanı sonrası reklam kampanyaları
 
 
 ## Ürünün Bileşenleri
