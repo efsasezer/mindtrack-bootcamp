@@ -59,7 +59,7 @@
 ## Kullanılan Proje Yönetim Platformu
 
 Trello üzerinden sprint planlaması ve görev takibi yapılmıştır.
-![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg)
+
 
 
 
@@ -87,7 +87,7 @@ Gerçekleşen Puan: 80 puan
 
 **Daily Scrum**
 
-- Takım üyeleri olarka WhatsApp üzerinden iletişim sağladık, iki-üç günde bir durumumuzu konuşmak için meets üzerinden toplantı gerçekleştirdik.
+- Takım üyeleri olarak WhatsApp üzerinden iletişim sağladık, iki-üç günde bir durumumuzu konuşmak için meets üzerinden toplantı gerçekleştirdik.
 - İlk hafta tanışma, roller ve proje fikri üzerine konuşmalar yapılmıştır.
 - İkinci hafta proje fikri kararlaştırılmış, görevler high level olarak atanmıştır.
 - Genellikle akşam saatlerinde iletişim kurulmuştur.
@@ -96,7 +96,7 @@ Gerçekleşen Puan: 80 puan
 
 **Sprint Board Updates**
 - Trello üzerinden sprint planlaması başlatılmıştır.
-- (Sprint Board ekran görüntüsü ayrıca eklenecek.)
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg)
 
 **Ürün Durumu**
 - Ürün fikir aşamasında şekillenmiştir.
@@ -106,7 +106,8 @@ Gerçekleşen Puan: 80 puan
 **Sprint Review**
 
 Bu sprintte yapılanlar:
-- Proje fikrine karar verildi: MindTrack – Öğrenci Ruh Sağlığı Takip Sistemi. 
+- Proje fikrine karar verildi: MindTrack – Öğrenci Ruh Sağlığı Takip Sistemi.
+    -  Motivasyon: Ekip üyelerimiz üniversite öğrenciliği sürecinde psikolojik zorlukların, akademik ve sosyal yaşam üzerindeki etkilerine bireysel olarak tanık oldu. Bu nedenle, öğrencilerin ruh sağlığına yönelik erken farkındalık sağlayacak bir sistem geliştirme fikri ortak bir ihtiyaç olarak belirlendi.
 - Veri seti bulundu ve projeye eklendi.
 - Takım üyeleri arasındaki görev paylaşımı yapıldı (high-level).
 - İletişim kanalları netleştirildi.
@@ -131,4 +132,4 @@ Bu sprintte yapılanlar:
 
 İyileştirilmesi Gerekenler:
 - Ekip değişikliği süreci sprinti yavaşlattı, bir sonraki sprintlerde toplanması gerekiyor.
-- Final haftaları nedeniyle ilerleme yavaştı, diğer sprintlerde toplanlanacaktır.
+- Final haftaları nedeniyle ilerleme yavaştı, diğer sprintlerde telafi edilecektir.
