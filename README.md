@@ -59,7 +59,7 @@
 ## Kullanılan Proje Yönetim Platformu
 
 Trello üzerinden sprint planlaması ve görev takibi yapılmıştır.
-![Mindtrack Trello]([https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/main/mindtrack_logo.png](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg))
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg)
 
 
 
@@ -80,7 +80,7 @@ Trello üzerinden sprint planlaması ve görev takibi yapılmıştır.
 Tahmin Edilen Tamamlanacak Puan: 100 puan
 Gerçekleşen Puan: 80 puan
 
-**Tahmin Mantığ**
+**Tahmin Mantığı**
 - Proje toplamda 300 puan olarak planlandı. Başlangıçta bu puan üç eşit sprint’e (100-100-100) bölündü.
 - Ancak ekip üyemizden birinin ayrılması ve yeni bir ekip arkadaşının sonradan eklenmesi süreci biraz aksatmıştır. Bu nedenle bu sprintte ancak 80 puanlık iş tamamlanmıştır.
 - Sonuç olarak kalan 220 puan, Sprint 2 ve Sprint 3’e 110’ar puan olarak dağıtılacaktır.
@@ -106,7 +106,7 @@ Gerçekleşen Puan: 80 puan
 **Sprint Review**
 
 Bu sprintte yapılanlar:
-- Proje fikrine karar verildi: MindTrack – Öğrenci Ruh Sağlığı Takip Sistemi
+- Proje fikrine karar verildi: MindTrack – Öğrenci Ruh Sağlığı Takip Sistemi. 
 - Veri seti bulundu ve projeye eklendi.
 - Takım üyeleri arasındaki görev paylaşımı yapıldı (high-level).
 - İletişim kanalları netleştirildi.
