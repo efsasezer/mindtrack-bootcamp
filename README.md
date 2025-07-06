@@ -59,6 +59,9 @@
 ## Kullanılan Proje Yönetim Platformu
 
 Trello üzerinden sprint planlaması ve görev takibi yapılmıştır.
+![Mindtrack Trello]([https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/main/mindtrack_logo.png](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg))
+
+
 
 ## Kullanılan Teknolojiler
 
