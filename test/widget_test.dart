@@ -1,30 +1,29 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
-import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:bootcamp/main.dart';
+import 'package:bootcamp/main.dart'; // Eğer dosya adı farklıysa düzelt
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(SoruUygulamasi());
+  testWidgets('İlk soru görünüyor ve İleri butonu çalışıyor', (
+    WidgetTester tester,
+  ) async {
+    // Uygulamayı başlat
+    await tester.pumpWidget(StudentSurveyApp());
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    // İlk sorunun doğru şekilde görünüp görünmediğini kontrol et
+    expect(find.textContaining("Cinsiyetiniz"), findsOneWidget);
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
+    // "Kadın" seçeneğini bul ve seç
+    final genderOption = find.text("Kadın");
+    expect(genderOption, findsOneWidget);
+    await tester.tap(genderOption);
     await tester.pump();
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    // "İleri" butonunu bul ve tıkla
+    final nextButton = find.text("İleri");
+    expect(nextButton, findsOneWidget);
+    await tester.tap(nextButton);
+    await tester.pump();
+
+    // İkinci sorunun (Yaş) ekranda olduğunu doğrula
+    expect(find.textContaining("Yaş"), findsOneWidget);
   });
 }
