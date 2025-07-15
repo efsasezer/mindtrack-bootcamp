@@ -7,25 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:264491457827:android:d09c24dac30469834c0096",
-        "android_client_info": {
-          "package_name": "com.android.application"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyD_I6NOxCnRsaWktIaXZRMoPu-jpm3g1ZA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:264491457827:android:2cf3d075ec9e5f174c0096",
         "android_client_info": {
           "package_name": "com.example.bootcamp"

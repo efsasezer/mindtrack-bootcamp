@@ -1,5 +1,13 @@
-plugins {
-    id("com.google.gms.google-services") version "4.4.3" apply false
+buildscript {
+    repositories {
+        google() // Firebase plugin repository
+        mavenCentral() // General repositories
+    }
+    dependencies {
+        // Firebase plugin
+        classpath 'com.android.tools.build:gradle:7.0.4' // Android Gradle plugin
+        classpath 'com.google.gms:google-services:4.4.3' // Google Services plugin
+    }
 }
 
 allprojects {
