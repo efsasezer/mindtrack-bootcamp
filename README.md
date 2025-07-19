@@ -75,14 +75,18 @@ Trello proje linki: https://trello.com/invite/b/6863f1d51ce2013457f400b1/ATTI553
 | Takip & Planlama  | Trello                   |
 
 ## Sprint 1 Raporu
+
 **Sprint Notları**
+
 Sprint 1’de proje fikri belirlendi ve takım içinde görev dağılımı yapıldı. Kullanılacak veri seti seçildi, ön analizler ve veri temizleme işlemleri gerçekleştirildi. İlk model denemeleri üzerine tartışmalar yapıldı ve temel planlama tamamlandı. Trello üzerinden görev takibi yapıldı ve iletişim çoğunlukla WhatsApp aracılığıyla sağlandı. Belirli günlerde Google Meet toplantıları düzenlendi. Tüm katılımcılar sürece aktif katılım gösterdi.
 
 **Sprint İçinde Tamamlanması Tahmin Edilen Puan**
+
 Tahmin Edilen Tamamlanacak Puan: 100 puan
 Gerçekleşen Puan: 80 puan
 
 **Tahmin Mantığı**
+
 - Proje toplamda 300 puan olarak planlandı. Başlangıçta bu puan üç eşit sprint’e (100-100-100) bölündü.
 - Ancak ekip üyemizden birinin ayrılması ve yeni bir ekip arkadaşının sonradan eklenmesi süreci biraz aksatmıştır. Bu nedenle bu sprintte ancak 80 puanlık iş tamamlanmıştır.
 - Sonuç olarak kalan 220 puan, Sprint 2 ve Sprint 3’e 110’ar puan olarak dağıtılacaktır.
@@ -96,10 +100,12 @@ Gerçekleşen Puan: 80 puan
 - İletişim Kanalları: WhatsApp grubu, Google Meets.
 
 **Sprint Board Updates**
+
 - Trello üzerinden sprint planlaması başlatılmıştır.
 ![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_mindtrack.jpg)
 
 **Ürün Durumu**
+
 - Ürün fikir aşamasında şekillenmiştir.
 - İlk veri seti bulunmuş ve projeye dahil edilmiştir.
 - İş bölümü high-level (genel düzeyde) yapılmıştır.
@@ -139,14 +145,17 @@ Bu sprintte yapılanlar:
 ## Sprint 2 Raporu
 
 **Sprint Notları**
+
 Sprint 2’de model eğitimi tamamlandı ve eğitilen model kaydedildi. FastAPI kullanılarak model servisi geliştirildi ve test edildi. Frontend arayüz tasarlandı; kullanıcı formu oluşturuldu ve sonuç ekranı geliştirildi. API ile frontend bağlantısı kurularak veri alışverişi sağlandı. Firebase kurulumu yapılarak kullanıcı giriş işlemleri ve veri kaydı tamamlandı. Veriye uygun kullanıcı soruları belirlendi. Takım içi iletişim yine WhatsApp ve Meet üzerinden sürdürüldü, Trello ile görev takibi yapıldı. Sprint sürecinde ekip arkadaşımız Galip projeden ayrılma kararı aldı. Ekip olarak hızlıca organize olup görev dağılımını yeniden yaparak süreci sorunsuz şekilde devam ettirdik ve sprinti dört kişi olarak tamamladık.
 
 
 **Sprint İçinde Tamamlanması Tahmin Edilen Puan**
+
 Tahmin Edilen Tamamlanacak Puan: 110 puan
 Gerçekleşen Puan: 110 puan
 
 **Tahmin Mantığı**
+
 Toplam proje 300 puan üzerinden planlandı. Her sprintte 100 puanlık iş tamamlanması hedeflendi, ilk sprint 80 puan olduğu için diğer iki sprint 110 puan olacak şekilde yeniden planlandı. Bu sprintte model servisi kurulumu, arayüz geliştirme, Firebase entegrasyonu gibi önemli orta-ağır görevler başarıyla yürütüldü.
 
 **Daily Scrum**
@@ -156,12 +165,15 @@ Toplam proje 300 puan üzerinden planlandı. Her sprintte 100 puanlık iş tamam
 - İletişim Kanalları: WhatsApp grubu, Google Meets.
 
 **Sprint Board Updates**
+
 - Trello üzerinden sprint planlamasına devam edilmiştir.
 ![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_sprint2.png)
 
 
 **Ürün Durumu**
+
 Sprint sonunda sistemin temel iskeleti oluşturuldu. Arayüz ile API entegrasyonu tamamlandı ve kullanıcıdan alınan veriler üzerinden depresyon tahmini yapılabiliyor hale geldi.
+
 Teknik Aşamalar:
 - Model Eğitimi: Eğitim tamamlandı ve model .pkl dosyası olarak kaydedildi
 - FastAPI Servisi: Tahmin üretimi için yapılandırıldı ve başarıyla test edildi
@@ -193,7 +205,6 @@ Bu sprintte yapılan işler:
 
 **Sprint Retrospective**
 
-İyi Gidenler:
 - Teknik görevler zamanında tamamlandı
 - Takım içi iletişim verimliydi
 - Model ve arayüz arasında başarılı bağlantı kuruldu
