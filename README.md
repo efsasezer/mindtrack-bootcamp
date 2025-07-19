@@ -155,22 +155,22 @@ Toplam proje 300 puan üzerinden planlandı. Her sprintte 100 puanlık iş tamam
 **Ürün Durumu**
 Sprint sonunda sistemin temel iskeleti oluşturuldu. Arayüz ile API entegrasyonu tamamlandı ve kullanıcıdan alınan veriler üzerinden depresyon tahmini yapılabiliyor hale geldi.
 Teknik Aşamalar:
-Model Eğitimi: Eğitim tamamlandı ve model .pkl dosyası olarak kaydedildi
-FastAPI Servisi: Tahmin üretimi için yapılandırıldı ve başarıyla test edildi
-Frontend: Form ekranı ve tahmin sonucu ekranı geliştirildi
-Veri Aktarımı: Kullanıcı verisi API’ye iletildi, tahmin sonucu geri döndü
-Firebase Entegrasyonu: Auth ve Firestore ayarlandı, kullanıcı girişi ve veri kaydı sağlandı
-Veriye Uygun Soru Seti: Kullanıcıya yöneltilecek sorular analizle eşleştirildi
+- Model Eğitimi: Eğitim tamamlandı ve model .pkl dosyası olarak kaydedildi
+- FastAPI Servisi: Tahmin üretimi için yapılandırıldı ve başarıyla test edildi
+- Frontend: Form ekranı ve tahmin sonucu ekranı geliştirildi
+- Veri Aktarımı: Kullanıcı verisi API’ye iletildi, tahmin sonucu geri döndü
+- Firebase Entegrasyonu: Auth ve Firestore ayarlandı, kullanıcı girişi ve veri kaydı sağlandı
+- Veriye Uygun Soru Seti: Kullanıcıya yöneltilecek sorular analizle eşleştirildi
 
 **Sprint Review**
 
 Bu sprintte yapılan işler:
-Modelin eğitilmesi ve kaydedilmesi
-FastAPI servisi kurulması
-Form tabanlı arayüzün oluşturulması
-Kullanıcı verisinin API üzerinden tahmin motoruna aktarılması
-Firebase entegrasyonu: authentication + veri kayıt yapısı
-Kullanıcıya sorulacak veriye dayalı soruların hazırlanması
+- Modelin eğitilmesi ve kaydedilmesi
+- FastAPI servisi kurulması
+- Form tabanlı arayüzün oluşturulması
+- Kullanıcı verisinin API üzerinden tahmin motoruna aktarılması
+- Firebase entegrasyonu: authentication + veri kayıt yapısı
+- Kullanıcıya sorulacak veriye dayalı soruların hazırlanması
 
 **Sprint Katılımcıları**
 
@@ -183,4 +183,7 @@ Kullanıcıya sorulacak veriye dayalı soruların hazırlanması
 **Sprint Retrospective**
 
 İyi Gidenler:
-İyileştirilmesi Gerekenler:
+- Teknik görevler zamanında tamamlandı
+- Takım içi iletişim verimliydi
+- Model ve arayüz arasında başarılı bağlantı kuruldu
+
