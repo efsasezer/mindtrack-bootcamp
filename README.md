@@ -92,7 +92,6 @@ Gerçekleşen Puan: 80 puan
 - İkinci hafta proje fikri kararlaştırılmış, görevler high level olarak atanmıştır.
 - Genellikle akşam saatlerinde iletişim kurulmuştur.
 - İletişim Kanalları: WhatsApp grubu, Google Meets.
-(Not: Ekran görüntüleri teslim dosyasına ayrıca eklenecektir.)
 
 **Sprint Board Updates**
 - Trello üzerinden sprint planlaması başlatılmıştır.
@@ -133,3 +132,43 @@ Bu sprintte yapılanlar:
 İyileştirilmesi Gerekenler:
 - Ekip değişikliği süreci sprinti yavaşlattı, bir sonraki sprintlerde toplanması gerekiyor.
 - Final haftaları nedeniyle ilerleme yavaştı, diğer sprintlerde telafi edilecektir.
+
+
+## Sprint 2 Raporu
+
+**Sprint İçinde Tamamlanması Tahmin Edilen Puan**
+Tahmin Edilen Tamamlanacak Puan: 110 puan
+Gerçekleşen Puan: 110 puan
+
+**Tahmin Mantığı**
+
+
+**Daily Scrum**
+
+- Takım üyeleri olarak WhatsApp üzerinden iletişim sağladık, iki-üç günde bir durumumuzu konuşmak için meets üzerinden toplantı gerçekleştirdik.
+- Genellikle akşam saatlerinde iletişim kurulmuştur.
+- İletişim Kanalları: WhatsApp grubu, Google Meets.
+
+**Sprint Board Updates**
+- Trello üzerinden sprint planlamasına devam edilmiştir.
+
+**Ürün Durumu**
+
+
+**Sprint Review**
+
+Bu sprintte yapılanlar:
+
+
+**Sprint Katılımcıları**
+
+- Efsa Sezer (Product Owner) - Aktif
+- Sultan Kırkan (Scrum Master) - Aktif
+- Fatih Mehmet Dikici (Developer) - Aktif
+- Sude Naz Öztürk (Developer) - Aktif
+- Galip Talha Erbaş (Developer) - Aktif Değil/ Ekipten Ayrıldı
+
+**Sprint Retrospective**
+
+İyi Gidenler:
+İyileştirilmesi Gerekenler:
