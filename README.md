@@ -162,6 +162,9 @@ Teknik Aşamalar:
 - Firebase Entegrasyonu: Auth ve Firestore ayarlandı, kullanıcı girişi ve veri kaydı sağlandı
 - Veriye Uygun Soru Seti: Kullanıcıya yöneltilecek sorular analizle eşleştirildi
 
+Ürünün ekran görüntüsü:
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/mindtrack_screens.jpeg)
+
 **Sprint Review**
 
 Bu sprintte yapılan işler:
