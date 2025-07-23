@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'survey_page.dart';  // Burada SurveyPage'i import edin.
 import 'signup_screen.dart'; // SignUpScreen'i ekledim
+import 'main_page.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
@@ -25,7 +26,7 @@ class _LoginScreenState extends State<LoginScreen> {
       // Başarıyla giriş yaptıysa SurveyPage'e yönlendir
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const SurveyPage()),
+        MaterialPageRoute(builder: (context) => const MainPage()),
       );
     } on FirebaseAuthException catch (e) {
       String message = 'Login failed';
