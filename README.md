@@ -12,7 +12,7 @@
 | Sultan Kırkan| Scrum Master |
 | Fatih Mehmet Dikici | Developer |
 | Sude Naz Öztürk | Developer |
-| Galip Talha Erbaş | Developer |
+| Galip Talha Erbaş | Developer (Ekipten Ayrıldı) |
 
 ##   Ürünün İsmi
 **MindTrack - Öğrenci Ruh Sağlığı Tahmin ve Takip Sistemi**
