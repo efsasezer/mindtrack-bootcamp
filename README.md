@@ -210,3 +210,75 @@ Bu sprintte yapılan işler:
 - Model ve arayüz arasında başarılı bağlantı kuruldu
 - Galip’in ekipten ayrılması sonrası görev dağılımı hızlıca yeniden yapıldı, süreç aksatılmadan 4 kişiyle devam edildi.
 
+## Sprint 3 Raporu
+
+**Sprint Notları**
+
+Bu sprintte ürünün tüm parçaları tamamlandı ve bir araya getirildi. Önceki sprintlerde ayrı ayrı geliştirilen modüller bu sprintte entegre edildi. Kullanıcı arayüzü, model servisi ve veri bağlantısı birlikte çalışır hale getirildi. Gemini kullanılarak oluşturulan sohbet botu uygulamaya eklendi ve projeye destekleyici bir özellik olarak entegre edildi. Ayrıca ürünün kısa tanıtım videosu hazırlanarak teslim formu ile birlikte iletildi. Bu sprint ile birlikte proje tamamlanmış oldu.
+
+**Sprint İçinde Tamamlanması Tahmin Edilen Puan**
+
+Tahmin Edilen Tamamlanacak Puan: 110 puan
+Gerçekleşen Puan: 110 puan
+
+**Tahmin Mantığı**
+
+Proje başta toplam 300 puan üzerinden planlandı. İlk sprintte 80 puan, ikinci ve üçüncü sprintlerde ise 110’ar puan tamamlanacak şekilde yapılandırıldı. Bu sprintte hedeflenen 110 puan başarıyla tamamlandı ve böylece toplam 300 puanlık proje tam olarak tamamlanmış oldu.
+
+**Daily Scrum**
+
+- İletişim genellikle WhatsApp grubu üzerinden sağlandı.
+- İhtiyaç duyulan zamanlarda Google Meet üzerinden çevrim içi toplantılar yapıldı.
+- Entegrasyon ve teslim sürecinde iletişim sıklığı artırıldı.
+- İletişim Kanalları: WhatsApp grubu, Google Meet
+
+**Sprint Board Updates**
+
+- Trello üzerinden sprint planlamasına devam edilmiştir.
+![Mindtrack Trello]()
+
+**Ürün Durumu**
+
+Sprint 3 sonunda ürün kullanıma hazır hale geldi. Tüm modüller birleştirildi, sistem testleri yapıldı. Gemini kullanılarak oluşturulan sohbet botu özelliği sisteme entegre edildi. Tanıtım videosu tamamlandı ve ürün teslim formu ile birlikte sunuldu.
+
+Tamamlanan Teknik Aşamalar:
+
+- Backend ve frontend modüllerinin entegrasyonu
+- Uygulama testlerinin yapılması
+- Gemini ile sohbet botunun oluşturulması ve entegre edilmesi
+- Tanıtım videosunun hazırlanması
+- Ürün teslim formunun gönderilmesi
+
+![Mindtrack Trello]()
+
+**Sprint Review**
+Bu sprintte tamamlanan işler:
+
+- Eksik kalan modüllerin tamamlanması
+- Tüm sistem bileşenlerinin birleştirilmesi
+- Gemini ile sohbet botu içeriğinin oluşturulması ve uygulamaya eklenmesi
+- Tanıtım videosunun hazırlanması
+- Ürün teslim formunun iletilmesi
+
+
+**Sprint Katılımcıları**
+
+- Efsa Sezer (Product Owner) - Aktif
+- Sultan Kırkan (Scrum Master) - Aktif
+- Fatih Mehmet Dikici (Developer) - Aktif
+- Sude Naz Öztürk (Developer) - Aktif
+- Galip Talha Erbaş (Developer) - Aktif Değil/ Ekipten Ayrıldı
+
+**Sprint Retrospective**
+
+İyi Gidenler:
+
+- Ürün başarıyla tamamlandı ve tüm modüller entegre edildi
+- Sohbet botu uygulamaya değerli bir ek olarak kazandırıldı
+- Tanıtım ve teslim süreci sorunsuz şekilde yönetildi
+- Ekip içi iş birliği ve iletişim üst düzeydeydi
+
+Geliştirilebilecek Noktalar:
+
+- Entegrasyon süreci yoğun geçti, ancak ekip uyum içinde ilerledi ve tüm hedefler zamanında tamamlandı.
+
