@@ -235,7 +235,7 @@ Proje başta toplam 300 puan üzerinden planlandı. İlk sprintte 80 puan, ikinc
 **Sprint Board Updates**
 
 - Trello üzerinden sprint planlamasına devam edilmiştir.
-![Mindtrack Trello]()
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/trello_sprint3.png)
 
 **Ürün Durumu**
 
@@ -249,7 +249,14 @@ Tamamlanan Teknik Aşamalar:
 - Tanıtım videosunun hazırlanması
 - Ürün teslim formunun gönderilmesi
 
-![Mindtrack Trello]()
+Ürünün Görselleri:
+
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/mindtrack_screens123.png)
+
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/mindtrack_screens456.png)
+
+![Mindtrack Trello](https://raw.githubusercontent.com/efsasezer/mindtrack-bootcamp/refs/heads/main/mindtrack_screens789.png)
+
 
 **Sprint Review**
 Bu sprintte tamamlanan işler:
